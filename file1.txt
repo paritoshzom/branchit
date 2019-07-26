@@ -1,2 +1,2 @@
-This is file number 1
+This is file number one
 This is line two of file 1
