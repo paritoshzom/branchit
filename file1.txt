@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is file number one
+=======
+This is file number 11one
+>>>>>>> future-plan
 This is line two of file 1
